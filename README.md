@@ -6,13 +6,13 @@ Projeto editado na blade com bootstrap para um site de uma hamburgueria.
 Para clonar um repositório já existente você deve usar o comando: 
 
 ```
-git clone https://github.com/anaclaudia-cb/projeto-funcionario-e-seu-investimento.git
+git clone https://github.com/anaclaudia-cb/super-burger.git
 ```
 
 depois irá para a pasta do projeto utilizando o comando:
 
 ```
-cd projeto-funcionario-e-seu-investimento
+cd super-burger
 ```
 
 depois instalará o composer na pasta
